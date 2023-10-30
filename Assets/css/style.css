@@ -16,12 +16,16 @@ img {
 
 .block {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin: auto;
     padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
     background-color: #212934;
     color: #cfd6e1;
 }
+
+
 
 .block1 {
     display: flex;
@@ -67,8 +71,8 @@ img {
     padding: 3px 6px;
     line-height: 1;
     text-align: center;
-    top: -10px;
-    left: 8px;
+    top: -25px;
+    left: 5px;
     font-size: 0.8rem;
     display: flex;
     justify-content: center;
@@ -106,6 +110,10 @@ img {
     height: auto;
 }
 
+.block2 div img {
+    height: 550px;
+}
+
 .div4 img {
     width: 250px;
     height: 250px;
@@ -114,15 +122,137 @@ img {
 }
 
 .div4 button {
-    padding: 10px 15px;
+    padding: 15px 25px;
     margin: 10px;
     background-color: #59ab6e;
     color: #ffffff;
     border: none;
+    border-radius: 5px;
 }
 
+.block4 {
+    padding: 50px;
+    text-align: center;
+    font-family: 'roboto',sans-serif;
+    background-color: #e9eef5;
+}
 
+.div5 {
+    width: 31%;
+    text-align: left;  
+    background-color: #ffffff;  
+    font-size: 18px;
+    border: 1px solid rgb(221, 220, 220);
+    padding-bottom: 25px;
+}
 
+.div5 i {
+    color: yellow;
+}
 
+.div5 .right-text {
+    float: right;
+}
 
+.div5 span {
+    color: #bcbcbc;
+}
 
+.margin a,h3,p,span {
+    margin: 15px 10px;
+}
+
+.div5 p {
+    margin: 15px 10px;
+}
+
+.block5 {
+    background-color: #212934;
+    color: #cfd6e1;
+}
+
+.flex1 {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: auto;
+    border-bottom: 1px solid #2d343f;
+    padding-bottom: 10px;
+}
+
+.div6  {
+    font-size: 1.2rem;
+    width: 25%;
+}
+
+.div6 h2,i {
+    margin: 10px 5px;
+}
+
+.div6 h2 {
+    font-size: 2rem;
+    color: #59ab6e;
+    border-bottom: 1px solid #2d343f;
+    padding-bottom: 10px;
+}
+
+.div6 a {
+    text-decoration: none;
+    color: #cfd6e1;
+}
+
+.div7 {
+    width: 23%;
+}
+
+.div7 h2,p {
+    margin: 10px 0px;
+    font-size: 1.2rem;
+}
+
+.div7 h2 {
+    font-size: 2rem;
+    border-bottom: 1px solid #2d343f;
+    padding-bottom: 10px;
+}
+
+.flex2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.div8 {
+    display: inline-block;
+    padding: 20px;
+}
+
+.div8 a {
+    text-decoration: none;
+    color: #cfd6e1;
+    border-radius: 50%;
+    border: 1px solid #2d343f;
+    padding: 5px;
+
+}
+
+.div8 span input {
+    
+    background-color: #212934;
+    padding: 10px 20px;
+    border: 1px solid #2d343f;
+}
+
+.div8 span button {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background-color: #59ab6e;
+    border: none;
+}
+
+.block6 {
+    background-color: #1d242d;
+    color: #dcdde1;
+    padding: 30px;
+    padding-left: 50px;
+}
