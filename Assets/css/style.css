@@ -169,6 +169,7 @@ img {
 .block5 {
     background-color: #212934;
     color: #cfd6e1;
+    padding-top: 50px;
 }
 
 .flex1 {
@@ -222,7 +223,7 @@ img {
 }
 
 .div8 {
-    padding: 20px;
+    padding: 30px;
     padding-left: 80px;
     padding-right: 80px;
 }
@@ -232,8 +233,12 @@ img {
     color: #cfd6e1;
     border-radius: 50%;
     border: 1px solid #2d343f;
+    margin-right: 5px;
     padding: 5px;
     font-size: 22px;
+    width: 2.6em;
+    height: 2.6em;
+    
 }
 
 .div8 span input {
