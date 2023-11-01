@@ -234,11 +234,11 @@ img {
     border-radius: 50%;
     border: 1px solid #2d343f;
     margin-right: 5px;
-    padding: 5px;
     font-size: 22px;
-    width: 2.6em;
-    height: 2.6em;
-    
+    width: 44px;
+    height: 44px;
+    display: inline-block;
+    text-align: center; 
 }
 
 .div8 span input {
