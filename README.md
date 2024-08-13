@@ -7,15 +7,11 @@ This is HTML, CSS and Web Designing.
 
 ## Key Points
 1. Font Awesome
-2. CSS
-3. 
-4. 
-5. 
+2. CSS media queries
+
 
 # Live Url
 https://narenderrajput.github.io/Zay_Shop/
-
-[View Demo on youtube](https://youtu.be/0upIxqAJieU)
 
 
 # Screenshot
